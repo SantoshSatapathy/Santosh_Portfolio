@@ -22,6 +22,13 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
 
+## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+
+#
 - **French Trot Horse Racing Forecasting Competition (On-going)**: CANSSI Ontario
 - **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
 - **Housing Prediction Model**: University of Guelph - Implemented a highly accurate cost predictive modeling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimize predictions
