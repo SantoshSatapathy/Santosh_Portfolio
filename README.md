@@ -1,9 +1,5 @@
 # Santosh Satapathy - Data Science Portfolio
 
-![](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
-
-## Welcome to my Data Science Projects Repository!
-
 This repository serves as a comprehensive portfolio, highlighting my proficiency in data science, machine learning, and data storytelling through a diverse range of projects undertaken for academic and self-learning purpose. Please note that projects developed for my previous employer are not included here as they are proprietary to the company.
 
 ## Professional Summary
