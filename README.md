@@ -1,9 +1,10 @@
-# Data Science Portfolio - Santosh Satapathy
+# Santosh Satapathy - Data Science Portfolio
 
 ![](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
-Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, machine learning, and visualization.
 
-# Santosh Satapathy - Data Science Portfolio
+## Welcome to my Data Science Projects Repository!
+
+This repository serves as a comprehensive portfolio, highlighting my proficiency in data analysis, machine learning, and visualization through a diverse range of projects undertaken for academic, self-learning, and hobby purposes. Please note that projects developed for my previous employer are not included here as they are proprietary to the company.
 
 ## Contact Information
 - Location: Guelph, ON, N1E5H6
@@ -48,6 +49,16 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 - **Transferrable skills**: Team management, Data Storytelling, Problem-Solving, Attention to detail
 
 ## Projects
+
+1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
+   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
+   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
+   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
+   -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
+
 - **French Trot Horse Racing Forecasting Competition (On-going)**: CANSSI Ontario
 - **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
 - **Housing Prediction Model**: University of Guelph - Implemented a highly accurate cost predictive modeling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimize predictions
@@ -69,18 +80,3 @@ CashKaro.com
 
 ### Skills-Based Volunteering: Teaching
 - At-home Tutoring for local students on mathematics and science subjects during high school
-
-
-
-
-
-
-## Projects
-1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
-   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
-   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
-   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
-2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
-   -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
-   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
-   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
