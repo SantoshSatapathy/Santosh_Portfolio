@@ -7,5 +7,164 @@ description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
 
-# <img src="{{site.baseurl | prepend: site.url}}assets/_DSC0665.png" alt="Untitled" />
 
+################################
+# Site Settings
+################################
+lang        : "en"
+logo        :
+title       : Minimal Theme
+description : Your awesome site
+author      : Desired Persona
+email       : your-email@domain.com
+baseurl     : "" # the subpath of your site, e.g. /blog
+url         : ""
+date_format : "%-d %b %Y"
+port        : 4000
+
+
+################################
+# Theme Settings
+################################
+theme       : minimal-jekyll-theme
+permalink   : /:title/
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Navigation Menus
+header_navigation:
+  - title: Documentation
+    url: /docs/
+
+  - title: Themes
+    url: https://desiredpersona.com/themes/
+
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /archive/
+
+  - title: Contact
+    url: mailto:you@example.com
+
+footer_navigation:
+  - title: privacy
+    url: /privacy/
+
+  - title: terms
+    url: /terms/
+
+# UI Default Text
+text:
+  updated           : Updated          # Post updated text
+  less_than         : Less than        # Post read time less than 1 minute
+  minute_read       : min read         # Post read time
+  words_per_minute  : 200              # Reading speed
+  undefined_wpm     : Undefined parameter text.words_per_minute in your config.yml file
+  caption           : Image	           # Header image caption
+  post_heading      : Latest Posts     # Latest posts heading
+  post_limit        : 3                # Show this many latest post on your homepage
+  blog_limit	      : 10               # Show this many post on the blog
+  read_more         : Read more        # Read more link
+  blog_title        : All Posts        # Archives link title
+  blog_url          : /blog/           # Archive link url for home.html and 404 page layouts
+  copyright         : 2015	           # The from year in the copyright. The current year is updated automatically.
+
+# UI Default Settings
+author_bio          : true             # Show author bio
+post_meta           : true             # Show post meta
+share_icons         : true             # Show post social sharing icons
+category_tag_list   : true             # Show post categories & tags
+twitter_icon        : true             # Show Twitter share button
+facebook_icon       : true             # Show Facebook share button
+google_plus_icon    : true             # Show Google+ share button
+
+# Markdown Settings
+markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
+    syntax_highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Include/Exclude filetypes
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: desired-persona-dev
+
+# Theme Attribution Link (Optional)
+# Setting this to false will remove the attribution link from the themes footer.
+attribution: true 
+
+################################
+# Analytics Settings
+################################
+google_tag_manager: UA-XXXXXXXX-N
+
+
+################################
+# Jekyll Plugins
+################################
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
+
+# Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
+social:
+  name: Joe Bloggs
+  links:
+    - https://twitter.com/username
+    - https://plus.google.com/u/0/+username
+    - https://www.facebook.com/username
+
+twitter:
+  username: Joe Bloggs
+
+facebook:
+  app_id:
+  publisher:
+  admins:
+
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+
+# Jekyll Feed Settings https://github.com/jekyll/jekyll-feed
+atom_feed:
+    path: # Leave blank to use default (feed.xml)
+
+# Jekyll Archives Settings https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+     - categories
+     - tags
+     - year
+     - month
+     - day
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
