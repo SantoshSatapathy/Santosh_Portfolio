@@ -2,7 +2,7 @@ url: 'https://github.com/SantoshSatapathy/Santosh_Portfolio' # your main domain
 baseurl: 'SantoshSatapathy/' # if you're using custom domain keep this blank example: baseurl: ''
 
 title: Santosh Satapathy
-logo: Santosh_Portfolio/assets/_DSC0665.jpg
+logo: /Santosh_Portfolio/assets/_DSC0665.jpg
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
