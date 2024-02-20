@@ -6,14 +6,34 @@
 
 This repository serves as a comprehensive portfolio, highlighting my proficiency in data analysis, machine learning, and visualization through a diverse range of projects undertaken for academic, self-learning, and hobby purposes. Please note that projects developed for my previous employer are not included here as they are proprietary to the company.
 
+## Professional Summary
+Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ years of Data Analytics and Data Engineering experience in E-commerce Industry leading a team of 10+ while creating, developing, testing, and deploying highly adaptive diverse Data based services to translate E-Commerce Business Data and App Data to propel growth.
+
 ## Contact Information
 - Location: Guelph, ON, N1E5H6
 - Phone: 416-823-8712
 - Email: satapats@uoguelph.ca
 - LinkedIn: [linkedin.com/in/santosh-kumar-satapathy](https://www.linkedin.com/in/santosh-kumar-satapathy)
 
-## Professional Summary
-Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ years of Data Analytics and Data Engineering experience in E-commerce Industry leading a team of 10+ while creating, developing, testing, and deploying highly adaptive diverse Data based services to translate E-Commerce Business Data and App Data to propel growth.
+## Projects
+
+1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
+   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
+   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
+   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
+   -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
+
+- **French Trot Horse Racing Forecasting Competition (On-going)**: CANSSI Ontario
+- **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
+- **Housing Prediction Model**: University of Guelph - Implemented a highly accurate cost predictive modeling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimize predictions
+- **Credit Card User Cross-Selling Prediction**: CashKaro - Developed a robust regression model to predict user cross-selling potential, enabling targeted marketing efforts and resulting in a 30% increase in high-quality leads generated
+- **Customer Churn Prediction Model**: CashKaro - Leveraged Support Vector Machine modeling techniques to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
+- **User Product Affinity Model**: CashKaro - Modeled a user affinity model, analyzing products and user data to predict preferences and deliver personalized recommendations, resulting in at least 20% increase in user engagement
+- **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
+- **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I
@@ -48,35 +68,6 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 - **Warehousing**: Database management and SQL, Big Data (R Programming, Hadoop), Data Warehousing (Amazon Redshift), ETL processes, Cloud computing platforms (AWS, GCP)
 - **Transferrable skills**: Team management, Data Storytelling, Problem-Solving, Attention to detail
 
-## Projects
-
-1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
-   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
-   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
-   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
-2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
-   -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
-   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
-   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
-
-- **French Trot Horse Racing Forecasting Competition (On-going)**: CANSSI Ontario
-- **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
-- **Housing Prediction Model**: University of Guelph - Implemented a highly accurate cost predictive modeling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimize predictions
-- **Credit Card User Cross-Selling Prediction**: CashKaro - Developed a robust regression model to predict user cross-selling potential, enabling targeted marketing efforts and resulting in a 30% increase in high-quality leads generated
-- **Customer Churn Prediction Model**: CashKaro - Leveraged Support Vector Machine modeling techniques to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-- **User Product Affinity Model**: CashKaro - Modeled a user affinity model, analyzing products and user data to predict preferences and deliver personalized recommendations, resulting in at least 20% increase in user engagement
-- **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
-- **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
-
 ## Training and Certifications
 - **Industrial Training - Data Analysis using R and Hadoop**
 - **Certification - Big Data Analysis**
-
-## Additional Experience
-### Business Development: Associate
-#### 2021
-CashKaro.com
-- Analyzed market trends and competitor landscape to align client offerings with customer demands; optimized customer acquisition, leading to a 70% increase in Pantry category’s revenue
-
-### Skills-Based Volunteering: Teaching
-- At-home Tutoring for local students on mathematics and science subjects during high school
