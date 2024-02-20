@@ -32,12 +32,10 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 - **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
 
 ## Professional Experience
-### Graduate Teaching Assistant: Statistics I
-#### W - 2024
+### Graduate Teaching Assistant: Statistics I (W - 2024)
 Department of Mathematics and Statistics, UoG
 
-### Data Analytics and Engineering: Assistant Manager
-#### 2021 - 2023
+### Data Analytics and Engineering: Assistant Manager (2021 - 2023)
 CashKaro.com (E-Commerce Affiliate Marketing App)
 - Led the transformation and rebuilding of the Central Data Team, from a Local Server to AWS with Amazon Redshift, overseeing data analytics, reporting, and automation; achieved a 2x increase in data accuracy and performed platform integration for efficient data exchange across all departments and sub-business units
 - Implemented automated workflows and integrated Live Power BI Visualizations, enabling seamless access to real-time data insights customized for each team or each project goal, driving more efficient and secure decision-making processes, and saving over 50% daily data analysis time across the organization
@@ -46,12 +44,10 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 - Facilitated successful Series C funding round by collaborating with Co-Founders, Board, and Potential Investors to deliver comprehensive performance analytics and Company MIS, resulting in roughly $21.3M CAD secured investment
 
 ## Education
-- **Master of Data Science**
-  - 2023 - 2024
+- **Master of Data Science** (2023 - 2024)
   - University of Guelph, Ontario, Canada
 
-- **Bachelor of Technology: Electronics and Communication Engineering**
-  - 2015 - 2019
+- **Bachelor of Technology: Electronics and Communication Engineering** (2015 - 2019)
   - Guru Gobind Singh Indraprastha University, Delhi, India
 
 ## Skills Summary
