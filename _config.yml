@@ -1,10 +1,10 @@
 ################################
 # Site Settings
 ################################
-baseur;: 'https://github.com/SantoshSatapathy/' # your main domain
-url: 'Santosh_Portfolio/' # if you're using custom domain keep this blank example: baseurl: ''
+# baseur;: 'https://github.com/SantoshSatapathy/' # your main domain
+# url: 'Santosh_Portfolio/' # if you're using custom domain keep this blank example: baseurl: ''
 title: Santosh Satapathy
-logo: /assets/_DSC0665-2 2.png
+logo: assets/_DSC0665-2 2.png
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
