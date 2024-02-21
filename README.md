@@ -55,33 +55,39 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** Python
    - **Results:** NA
    
-10. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
-   - **Description:** 
+10. **Credit Card User Cross-Selling Prediction**
+   - **Institution/Organisation:** CashKaro
+   - **Description:** Developed a regression model to predict user cross-selling potential across the E-commerce platform, enabling targeted marketing for all affiliates
+   - **Technologies Used:** Logistic Regression, Random Forest Classifier
+   - **Results:** 30% increase in leads generated through targeted marketing
+     
+11. **Customer Churn Prediction Model**
+   - **Institution/Organisation:** CashKaro
+   - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
    - **Technologies Used:** 
    - **Results:**
      
-11. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-   - **Description:** 
+11. **User Product Affinity Model**
+   - **Institution/Organisation:** CashKaro
+   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
    - **Technologies Used:** 
    - **Results:**
-     
-11. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
+   - 
+11. **PacMan Game - Building and testing AI Search Models and Heuristics**
+   - **Institution/Organisation:** University of Guelph
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
    - 
-11. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
-   - **Description:** 
+12. **Stock Prediction Model**
+   - **Institution/Organisation:** Kaggle
+   - **Description:** Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
    - **Technologies Used:** 
    - **Results:**
    - 
-12. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
-   - **Description:** 
-   - **Technologies Used:** 
-   - **Results:**
-   - 
-13. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
-   - **Description:** 
+13. **Health Insurance Forecasting Model**
+   - **Institution/Organisation:** Kaggle
+   - **Description:** Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
    - **Technologies Used:** 
    - **Results:**
 
