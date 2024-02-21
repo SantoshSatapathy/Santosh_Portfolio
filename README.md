@@ -62,13 +62,13 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** 30% increase in leads generated through targeted marketing
      
 11. **Customer Churn Prediction Model**
-   - **Institution/Organisation:** CashKaro
+   - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
    - **Technologies Used:** 
    - **Results:**
      
 11. **User Product Affinity Model**
-   - **Institution/Organisation:** CashKaro
+   - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
    - **Technologies Used:** 
    - **Results:**
