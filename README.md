@@ -13,38 +13,46 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 ## Projects
 
-1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
-   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
-   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
-   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
-2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
-   - **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
-   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
-   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
-3. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
+1. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    - **Description:** University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of victory or defeat in forthcoming races within an average margin of +-8 meters
    - **Technologies Used:** 
    - **Results:**
-4. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
+2. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
    - **Description:** University of Guelph - Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
    - **Technologies Used:** 
    - **Results:**
-5. **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance
-outcome predictions by comparing performance of logistic regression with Linear Discriminant
-Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
-9. **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate
-cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models
-by conducting comprehensive feature engineering and model tuning to optimise predictions
-10. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user
-cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
-11. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an
-accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-12. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and
-user data to predict preferences and deliver personalised recommendations, resulting in at least
-20% increase in user engagement
+3. **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
+4. **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
+5. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
+9. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
+11. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
 13. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
 14. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
 15. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
+   - **Description:** 
+   - **Technologies Used:** 
+   - **Results:**
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
