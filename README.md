@@ -107,7 +107,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Drove a significant 10% reduction in customer churn rates
      
 
-10. **User Product Affinity Model**
+9. **User Product Affinity Model**
     
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
      
@@ -118,7 +118,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Resulted in at least 20% increase in user engagement
 
      
-11. **PacMan Game Heuristics**
+9. **PacMan Game Heuristics**
     
    - **Institution/Organisation:** University of Guelph
      
@@ -150,6 +150,7 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 
 - **Master of Data Science** (2023 - 2024)
   - University of Guelph, Ontario, Canada
+
 
 - **Bachelor of Technology: Electronics and Communication Engineering** (2015 - 2019)
   - Guru Gobind Singh Indraprastha University, Delhi, India
