@@ -81,7 +81,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
-Department of Mathematics and Statistics, UoG
+Department of Mathematics and Statistics, University of Guelph
 
 ### Data Analytics and Engineering: Assistant Manager (2021 - 2023)
 CashKaro.com (E-Commerce Affiliate Marketing App)
