@@ -18,34 +18,41 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** On-Going Research Project Aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
    - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Dataset - IEMOCAP, MELD, DialyDialog
    - **Results:** NA
+     
 2. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
    - **Technologies Used:** Feed Forward Neural Network
    - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
+     
 3. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
    - **Technologies Used:** Recurrent Neural Networks, LSTM, Word2Vec, WordNetLemmatizer
    - **Results:** Achieved 75.38% leaderboard accuracy
+     
 4. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)** : University of Guelph - Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
+     
 5. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)** : University of Guelph - Implemented a highly accurate cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
+     
 6. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
 7. **[Nonogram](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
 8. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
+     
 9. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
+     
 10. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
    - **Description:** 
    - **Technologies Used:** 
