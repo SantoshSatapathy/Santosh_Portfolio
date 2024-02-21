@@ -32,51 +32,87 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 
 4. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
+   
    - **Institution/Organisation:** University of Guelph
+     
    - **Description:** Employed Word2Vec in conjunction with both RNN and LSTM models for food recipe classification to compare model performance and improve accuracy
+     
    - **Technologies Used:** Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Word2Vec, WordNetLemmatizer
+     
    - **Results:** Achieved 75.38% leaderboard accuracy on Kaggle
      
-5. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
-   - **Institution/Organisation:** University of Guelph
-   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
-   - **Technologies Used:** Feed Forward Neural Network (FNN)
-   - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
-
-6. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
-   - **Institution/Organisation:** University of Guelph
-   - **Description:** Implemented a highly accurate cost predictive modelling by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
-   - **Technologies Used:** Linear Regression, Forward/Backward Feature Selection Models
-   - **Results:** Achieved 94% RMSE
      
-7. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
+6. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
+   
    - **Institution/Organisation:** University of Guelph
+     
+   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
+     
+   - **Technologies Used:** Feed Forward Neural Network (FNN)
+     
+   - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
+     
+
+8. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
+   
+   - **Institution/Organisation:** University of Guelph
+     
+   - **Description:** Implemented a highly accurate cost predictive modelling by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
+     
+   - **Technologies Used:** Linear Regression, Forward/Backward Feature Selection Models
+     
+   - **Results:** Achieved 94% RMSE
+
+     
+10. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
+    
+   - **Institution/Organisation:** University of Guelph
+     
    - **Description:** Used Tableau to draw insights from iZEV Incentive Statistics Dataset published by Statistics Canada to measure growth and derive meaningful insights from the real-world dataset
+     
    - **Technologies Used:** Tableau
+     
    - **Results:** Suggested growth approaches for the iZEV Incentives Program
+     
    
-8. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+11. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+    
    - **Institution/Organisation:** University of Guelph
+     
    - **Description:** Built a python script that can efficiently solve Nonogram Puzzles and also generate nonogram puzzles from real-life images
+     
    - **Technologies Used:** Python
-   - **Results:** NA
    
-9. **Credit Card User Cross-Selling Prediction**
+11. **Credit Card User Cross-Selling Prediction**
+    
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
+     
    - **Description:** Developed a regression model to predict user cross-selling potential across the E-commerce platform, enabling targeted marketing for all affiliates
+     
    - **Technologies Used:** Logistic Regression, Random Forest Classifier, Big Query, Python, Amazon Redshift, Power BI
+     
    - **Results:** 30% increase in leads generated through targeted marketing
      
-10. **Customer Churn Prediction Model**
+     
+11. **Customer Churn Prediction Model**
+    
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
+     
    - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model basis all available customer behaviour measurement metrics in the company
+     
    - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
+     
    - **Results:** Drove a significant 10% reduction in customer churn rates
+     
 
 11. **User Product Affinity Model**
+    
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
+     
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations
+     
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
+     
    - **Results:** Resulted in at least 20% increase in user engagement
 
 
@@ -90,12 +126,19 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 Department of Mathematics and Statistics, University of Guelph
 
 ### Data Analytics and Engineering: Assistant Manager (2021 - 2023)
+
 CashKaro.com (E-Commerce Affiliate Marketing App)
+
 - Led the transformation and rebuilding of the Central Data Team, from a Local Server to AWS with Amazon Redshift, overseeing data analytics, reporting, and automation; achieved a 2x increase in data accuracy and performed platform integration for efficient data exchange across all departments and sub-business units
+  
 - Implemented automated workflows and integrated Live Power BI Visualizations, enabling seamless access to real-time data insights customized for each team or each project goal, driving more efficient and secure decision-making processes, and saving over 50% daily data analysis time across the organization
+  
 - Orchestrated the structuring and optimization of data pipelines and flows utilizing Python, Amazon Redshift (PostgreSQL), and Power BI, resulting in a 40% reduction in data processing time and a 25% increase in actionable insights across the organization
+  
 - Improved the Data Warehouse for analytics, utilizing Python, SQL, Google Cloud Platform (Big Query), AWS, Microsoft Power BI, API Integrations, Branch, CleverTap, Excel, and Power Query; streamlined reporting processes, reducing 30% data retrieval time
+  
 - Facilitated successful Series C funding round by collaborating with Co-Founders, Board, and Potential Investors to deliver comprehensive performance analytics and Company MIS, resulting in roughly $21.3M CAD secured investment
+
 
 ## Education
 - **Master of Data Science** (2023 - 2024)
