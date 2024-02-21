@@ -22,25 +22,29 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
 3. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
-   - **Description:** University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of
-victory or defeat in forthcoming races within an average margin of +-8 meters
-6. **What’s Cooking - Food Recipe Classification Competition on Kaggle** : University of Guelph - Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
-7. **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance
+   - **Description:** University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of victory or defeat in forthcoming races within an average margin of +-8 meters
+   - **Technologies Used:** 
+   - **Results:**
+4. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
+   - **Description:** University of Guelph - Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
+   - **Technologies Used:** 
+   - **Results:**
+5. **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance
 outcome predictions by comparing performance of logistic regression with Linear Discriminant
 Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
-8. **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate
+9. **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate
 cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models
 by conducting comprehensive feature engineering and model tuning to optimise predictions
-9. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user
+10. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user
 cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
-10. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an
+11. **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an
 accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-11. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and
+12. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and
 user data to predict preferences and deliver personalised recommendations, resulting in at least
 20% increase in user engagement
-12. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
-13. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
-14. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
+13. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
+14. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
+15. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
