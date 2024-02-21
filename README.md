@@ -14,11 +14,13 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 ## Projects
 
 1. *On-Going Research: Avoiding Conversation Derailment in E-commerce Customer Service Chatbot by integrating Emotion and Intent based decision making*
-   - **Institution/Organisation:** University of Guelph
-   - **Description:** Research Project aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
-   - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Datasets Used - IEMOCAP, MELD, DialyDialog
-   - **Results:** NA
    
+   - **Institution/Organisation:** University of Guelph
+     
+   - **Description:** Research Project aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
+     
+   - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Datasets Used - IEMOCAP, MELD, DialyDialog
+     
 
 2. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)**
 
@@ -115,15 +117,18 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
      
    - **Results:** Resulted in at least 20% increase in user engagement
 
-
      
 11. **PacMan Game Heuristics**
+    
    - **Institution/Organisation:** University of Guelph
+     
    - **Description:**  Building and testing AI Search Models and Heuristics
      
 
 ## Professional Experience
+
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
+
 Department of Mathematics and Statistics, University of Guelph
 
 ### Data Analytics and Engineering: Assistant Manager (2021 - 2023)
@@ -142,6 +147,7 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 
 
 ## Education
+
 - **Master of Data Science** (2023 - 2024)
   - University of Guelph, Ontario, Canada
 
@@ -150,6 +156,7 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 
 
 ## Skills Summary
+
 - **Machine Learning and Artificial Intelligence**: Supervised, Unsupervised, and Reinforcement learning, Ensemble, Statistical Modeling, Feature Engineering, CNN, Heuristics, Time Series forecasting, Discriminant Analysis, Sequential Text and Audio Data Analysis, NLP
   
 - **Data and Business Analytics**: ROI analysis, Marketing and Growth analytics, MIS, Data Mining
