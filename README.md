@@ -18,56 +18,62 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** Research Project aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
    - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Datasets Used - IEMOCAP, MELD, DialyDialog
    - **Results:** NA
+   - 
 
 2. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)**
+
    - **Institution/Organisation:** University of Guelph
+     
    - **Description:** Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis applied on Principal Component Analysis to maximize Revenue Generation
+     
    - **Technologies Used:** Logistic Regression with L1 Regularization (LASSO), Linear Discriminant Analysis (LDA), Principal Component Analysis (PCA)
+     
    - **Results:** Achieved Highest generated revenue of 16 cents per insurance enquiry
 
-3. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
+
+4. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Employed Word2Vec in conjunction with both RNN and LSTM models for food recipe classification to compare model performance and improve accuracy
    - **Technologies Used:** Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Word2Vec, WordNetLemmatizer
    - **Results:** Achieved 75.38% leaderboard accuracy on Kaggle
      
-4. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
+5. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
    - **Technologies Used:** Feed Forward Neural Network (FNN)
    - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
 
-5. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
+6. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Implemented a highly accurate cost predictive modelling by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
    - **Technologies Used:** Linear Regression, Forward/Backward Feature Selection Models
    - **Results:** Achieved 94% RMSE
      
-6. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
+7. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Used Tableau to draw insights from iZEV Incentive Statistics Dataset published by Statistics Canada to measure growth and derive meaningful insights from the real-world dataset
    - **Technologies Used:** Tableau
    - **Results:** Suggested growth approaches for the iZEV Incentives Program
    
-7. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+8. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Built a python script that can efficiently solve Nonogram Puzzles and also generate nonogram puzzles from real-life images
    - **Technologies Used:** Python
    - **Results:** NA
    
-8. **Credit Card User Cross-Selling Prediction**
+9. **Credit Card User Cross-Selling Prediction**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Developed a regression model to predict user cross-selling potential across the E-commerce platform, enabling targeted marketing for all affiliates
    - **Technologies Used:** Logistic Regression, Random Forest Classifier, Big Query, Python, Amazon Redshift, Power BI
    - **Results:** 30% increase in leads generated through targeted marketing
      
-9. **Customer Churn Prediction Model**
+10. **Customer Churn Prediction Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model basis all available customer behaviour measurement metrics in the company
    - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
    - **Results:** Drove a significant 10% reduction in customer churn rates
 
-10. **User Product Affinity Model**
+11. **User Product Affinity Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
