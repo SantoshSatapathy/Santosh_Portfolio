@@ -72,7 +72,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, 
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
    - **Results:** Resulted in at least 20% increase in user engagement
-   - 
+     
 11. **PacMan Game Heuristics**
    - **Institution/Organisation:** University of Guelph
    - **Description:**  Building and testing AI Search Models and Heuristics
