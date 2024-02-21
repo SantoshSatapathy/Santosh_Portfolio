@@ -21,11 +21,11 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** University of Guelph - Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
    - **Technologies Used:** 
    - **Results:**
-3. **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
+3. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)** : University of Guelph - Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
-4. **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
+4. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)** : University of Guelph - Implemented a highly accurate cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
