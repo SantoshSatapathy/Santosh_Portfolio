@@ -31,7 +31,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Achieved Highest generated revenue of 16 cents per insurance enquiry
 
 
-4. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
+3. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
    
    - **Institution/Organisation:** University of Guelph
      
@@ -42,7 +42,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Achieved 75.38% leaderboard accuracy on Kaggle
      
      
-6. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
+4. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    
    - **Institution/Organisation:** University of Guelph
      
@@ -53,7 +53,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
      
 
-8. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
+5. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
    
    - **Institution/Organisation:** University of Guelph
      
@@ -64,7 +64,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Achieved 94% RMSE
 
      
-10. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
+6. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
     
    - **Institution/Organisation:** University of Guelph
      
@@ -75,7 +75,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Suggested growth approaches for the iZEV Incentives Program
      
    
-11. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+7. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
     
    - **Institution/Organisation:** University of Guelph
      
@@ -83,7 +83,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
      
    - **Technologies Used:** Python
    
-11. **Credit Card User Cross-Selling Prediction**
+8. **Credit Card User Cross-Selling Prediction**
     
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
      
@@ -94,7 +94,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** 30% increase in leads generated through targeted marketing
      
      
-11. **Customer Churn Prediction Model**
+9. **Customer Churn Prediction Model**
     
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
      
@@ -105,7 +105,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Drove a significant 10% reduction in customer churn rates
      
 
-11. **User Product Affinity Model**
+10. **User Product Affinity Model**
     
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
      
@@ -120,6 +120,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 11. **PacMan Game Heuristics**
    - **Institution/Organisation:** University of Guelph
    - **Description:**  Building and testing AI Search Models and Heuristics
+     
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
