@@ -67,24 +67,12 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
    - **Results:** Drove a significant 10% reduction in customer churn rates
 
-8. **User Product Affinity Model**
+10. **User Product Affinity Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
-   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, 
+   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
    - **Results:** Resulted in at least 20% increase in user engagement
      
-9. **Customer Churn Prediction Model**
-   - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
-   - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model basis all available customer behaviour measurement metrics in the company
-   - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
-   - **Results:** Drove a significant 10% reduction in customer churn rates
-
-10. **User Product Affinity Model**
-   - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
-   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, 
-   - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
-   - **Results:** Resulted in at least 20% increase in user engagement
-
 11. **PacMan Game Heuristics**
    - **Institution/Organisation:** University of Guelph
    - **Description:**  Building and testing AI Search Models and Heuristics
