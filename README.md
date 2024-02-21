@@ -18,25 +18,25 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** On-Going Research Project aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
    - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Datasets Used - IEMOCAP, MELD, DialyDialog
    - **Results:** NA
-     
-2. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
+
+2. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)**
    - **Institution/Organisation:** University of Guelph
-   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
-   - **Technologies Used:** Feed Forward Neural Network (FNN)
-   - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
-     
+   - **Description:** Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis applied on Principal Component Analysis to maximize Revenue Generation
+   - **Technologies Used:** Logistic Regression with L1 Regularization (LASSO), Linear Discriminant Analysis (LDA), Principal Component Analysis (PCA)
+   - **Results:** Achieved Highest generated revenue of 16 cents per insurance enquiry
+
 3. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Employed Word2Vec in conjunction with both RNN and LSTM models for food recipe classification to compare model performance and improve accuracy
    - **Technologies Used:** Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Word2Vec, WordNetLemmatizer
    - **Results:** Achieved 75.38% leaderboard accuracy on Kaggle
      
-4. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)**
+4. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    - **Institution/Organisation:** University of Guelph
-   - **Description:** Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis applied on Principal Component Analysis to maximize Revenue Generation
-   - **Technologies Used:** Logistic Regression with L1 Regularization (LASSO), Linear Discriminant Analysis (LDA), Principal Component Analysis (PCA)
-   - **Results:** Achieved Highest generated revenue of 16 cents per insurance enquiry
-     
+   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
+   - **Technologies Used:** Feed Forward Neural Network (FNN)
+   - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
+
 5. **[Housing Insurance Price Prediction Model](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Housing%20Insurance%20Price%20Prediction)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Implemented a highly accurate cost predictive modelling by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimise predictions
@@ -72,13 +72,12 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
    - **Results:** Resulted in at least 20% increase in user engagement
+
+
      
 11. **PacMan Game Heuristics**
    - **Institution/Organisation:** University of Guelph
    - **Description:**  Building and testing AI Search Models and Heuristics
-
-
-
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
