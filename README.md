@@ -127,19 +127,20 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 ## Professional Experience
 
-### Graduate Teaching Assistant: Statistics I (W - 2024)
+### Graduate Teaching Assistant: Statistics I (Winter - 2024)
 
 Department of Mathematics and Statistics, University of Guelph
 
 ### Data Analytics and Engineering: Assistant Manager (2021 - 2023)
 
-CashKaro.com (E-Commerce Affiliate Marketing App)
+CashKaro.com (E-Commerce Affiliate Marketing App) 
 
-- Led the transformation and rebuilding of the Central Data Team, from a Local Server to AWS with Amazon Redshift, overseeing data analytics, reporting, and automation; achieved a 2x increase in data accuracy and performed platform integration for efficient data exchange across all departments and sub-business units
+
+- Led the transformation and rebuilding of the Central Data Team, from a Local Server to AWS with Amazon Redshift, overseeing data analytics, reporting, and automation; achieved a 2x increase in data accuracy and performed platform integration for data exchange across all departments
   
-- Implemented automated workflows and integrated Live Power BI Visualizations, enabling seamless access to real-time data insights customized for each team or each project goal, driving more efficient and secure decision-making processes, and saving over 50% daily data analysis time across the organization
+- Implemented automated reports and Live Power BI Visualizations, enabling access to real-time data insights customized for each team or each project goal, driving more efficient and secure decision making processes, and saving over 50% daily data analysis time across the organization
   
-- Orchestrated the structuring and optimization of data pipelines and flows utilizing Python, Amazon Redshift (PostgreSQL), and Power BI, resulting in a 40% reduction in data processing time and a 25% increase in actionable insights across the organization
+- Executed the structuring and optimization of data pipelines and flows utilizing Python, Amazon Redshift (PostgreSQL), and Power BI, resulting in a 40% reduction in data processing time and a 25% increase in actionable insights across the organization
   
 - Improved the Data Warehouse for analytics, utilizing Python, SQL, Google Cloud Platform (Big Query), AWS, Microsoft Power BI, API Integrations, Branch, CleverTap, Excel, and Power Query; streamlined reporting processes, reducing 30% data retrieval time
   
@@ -158,7 +159,7 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 
 ## Skills Summary
 
-- **Machine Learning and Artificial Intelligence**: Supervised, Unsupervised, and Reinforcement learning, Ensemble, Statistical Modeling, Feature Engineering, CNN, Heuristics, Time Series forecasting, Discriminant Analysis, Sequential Text and Audio Data Analysis, NLP
+- **Machine Learning and Artificial Intelligence**: Supervised, Unsupervised, and Reinforcement learning, Ensemble, Statistical Modeling, Feature Engineering, CNN, Heuristics, Time Series forecasting, Discriminant Analysis, Sequential Text and Audio Data Analysis, NLP, Transformers
   
 - **Data and Business Analytics**: ROI analysis, Marketing and Growth analytics, MIS, Data Mining
   
