@@ -7,7 +7,7 @@ plugins:
 # description: SSSSSSSSSSSSSSSSS
 # logo: assets/_DSC0665-2 2.png
 # description: text below image
-# show_downloads: true
+show_downloads: true
 # theme: jekyll-theme-minimal
 # lang        : "en"
 # email       : satapats@uoguelph.ca
