@@ -21,37 +21,27 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
-
- French Trot Horse Racing Forecasting Competition : University of Guelph - Developed a Feed
-Forward Neural Network model to analyze historical racing data of horses, predicting the margin of
+3. - **French Trot Horse Racing Forecasting Competition**: University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of
 victory or defeat in forthcoming races within an average margin of +-8 meters
-• What’s Cooking - Food Recipe Classification Competition on Kaggle : University of Guelph -
-Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and
+4. - **What’s Cooking - Food Recipe Classification Competition on Kaggle** : University of Guelph -
+5. Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and
 LSTM models for food recipe classification
-• Co-operators Company Car Insurance Prediction : University of Guelph - Conducted car insurance
+6. - **Co-operators Company Car Insurance Prediction** : University of Guelph - Conducted car insurance
 outcome predictions by comparing performance of logistic regression with Linear Discriminant
 Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
-• Housing Insurance Price Prediction Model : University of Guelph - Implemented a highly accurate
+7. - **Housing Insurance Price Prediction Model** : University of Guelph - Implemented a highly accurate
 cost predictive modelling with 94% RMSE by comparing and testing multivariate regression models
 by conducting comprehensive feature engineering and model tuning to optimise predictions
-• Credit Card User Cross-Selling Prediction : CashKaro - Developed a regression model to predict user
+8. - **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user
 cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
-• Customer Churn Prediction Model : CashKaro - Leveraged Support Vector Machine to create an
+9. - **Customer Churn Prediction Model** : CashKaro - Leveraged Support Vector Machine to create an
 accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-• User Product Affinity Model : CashKaro - Modelled a user affinity model, analysing products and
+10. - **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and
 user data to predict preferences and deliver personalised recommendations, resulting in at least
 20% increase in user engagement
-
-
-#
-- **French Trot Horse Racing Forecasting Competition (On-going)**: CANSSI Ontario
-- **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
-- **Housing Prediction Model**: University of Guelph - Implemented a highly accurate cost predictive modeling with 94% RMSE by comparing and testing multivariate regression models by conducting comprehensive feature engineering and model tuning to optimize predictions
-- **Credit Card User Cross-Selling Prediction**: CashKaro - Developed a robust regression model to predict user cross-selling potential, enabling targeted marketing efforts and resulting in a 30% increase in high-quality leads generated
-- **Customer Churn Prediction Model**: CashKaro - Leveraged Support Vector Machine modeling techniques to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-- **User Product Affinity Model**: CashKaro - Modeled a user affinity model, analyzing products and user data to predict preferences and deliver personalized recommendations, resulting in at least 20% increase in user engagement
-- **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
-- **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
+11. - **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
+12. - **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
+13. - **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
