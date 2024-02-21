@@ -13,7 +13,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 ## Projects
 
-1. *On-Going Research: Avoiding Conversation Derailment in E-commerce Customer Service Chatbot by integrating Emotion and Intent based decision making*
+1. ***On-Going Research: Avoiding Conversation Derailment in E-commerce Customer Service Chatbot by integrating Emotion and Intent based decision making***
    
    - **Institution/Organisation:** University of Guelph
      
