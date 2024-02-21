@@ -21,7 +21,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
-3. - **French Trot Horse Racing Forecasting Competition**: University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of
+3. - **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**: University of Guelph - Developed a Feed Forward Neural Network model to analyze historical racing data of horses, predicting the margin of
 victory or defeat in forthcoming races within an average margin of +-8 meters
 4. - **What’s Cooking - Food Recipe Classification Competition on Kaggle** : University of Guelph -
 5. Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and
