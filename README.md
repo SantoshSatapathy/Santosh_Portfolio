@@ -148,16 +148,28 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 - **Bachelor of Technology: Electronics and Communication Engineering** (2015 - 2019)
   - Guru Gobind Singh Indraprastha University, Delhi, India
 
+
 ## Skills Summary
 - **Machine Learning and Artificial Intelligence**: Supervised, Unsupervised, and Reinforcement learning, Ensemble, Statistical Modeling, Feature Engineering, CNN, Heuristics, Time Series forecasting, Discriminant Analysis, Sequential Text and Audio Data Analysis, NLP
+  
 - **Data and Business Analytics**: ROI analysis, Marketing and Growth analytics, MIS, Data Mining
+  
 - **Mathematics and Statistics**: Statistical Learning, Regression, Classification, Multivariate statistics
+  
 - **Programming Languages**: Python (numpy, pandas, PyTorch), SQL, C++, SAS, scikit-learn, OpenCV, HTML, Keras, TensorFlow
+  
 - **Visualization Tools**: PowerBI, Tableau, matplotlib, seaborn, Excel, Google Analytics, Matlab
+  
 - **Database/Server**: Postgres, AWS Redshift, Google Cloud Platform, Microsoft Azure, Big Query
+  
 - **Warehousing**: Database management and SQL, Big Data (R Programming, Hadoop), Data Warehousing (Amazon Redshift), ETL processes, Cloud computing platforms (AWS, GCP)
+  
 - **Transferrable skills**: Team management, Data Storytelling, Problem-Solving, Attention to detail
 
+
 ## Training and Certifications
+
 - **Industrial Training - Data Analysis using R and Hadoop**
+  
 - **Certification - Big Data Analysis**
+  
