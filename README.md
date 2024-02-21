@@ -67,7 +67,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
    - **Results:** Drove a significant 10% reduction in customer churn rates
 
-10. **User Product Affinity Model*
+10. **User Product Affinity Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, 
    - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
