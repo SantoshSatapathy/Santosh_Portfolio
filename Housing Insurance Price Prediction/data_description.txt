@@ -1,0 +1,13 @@
+df['Fence'] = np.where(df['Fence']=='Ex',4,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Gd',3,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='TA',2,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Fa',1,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Po',0,df['Fence'])
+df['Fence'] = np.where(df['Fence'].isnull(),-1,df['Fence'])
+
+df['Fence'] = np.where(df['Fence']=='Ex',4,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Gd',3,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='TA',2,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Fa',1,df['Fence'])
+df['Fence'] = np.where(df['Fence']=='Po',0,df['Fence'])
+df['Fence'] = np.where(df['Fence'].isnull(),-1,df['Fence'])
