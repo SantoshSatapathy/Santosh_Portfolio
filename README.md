@@ -13,19 +13,21 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 ## Projects
 
-0. **Conversation Derailment Avoiding in E-commerce Customer Service Chatbot based on Emotion and Intent**
-   - **Description:** On-Going
-   - **Technologies Used:** BERT, MELD, EMOCAP, GEMINI, GPT, LLM 
-   - **Results:**
+1. **Research: Avoiding Conversation Derailment in E-commerce Customer Service Chatbot by integrating Emotion and Intent based decision making**
+   - **Institution/Organisation:** University of Guelph
+   - **Description:** On-Going Research Project Aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
+   - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Dataset - IEMOCAP, MELD, DialyDialog
+   - **Results:** NA
 2. **[French Trot Horse Racing Forecasting Competition](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/French%20Trot%20Horse%20Racing%20Forecasting)**
    - **Institution/Organisation:** University of Guelph
-   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, 
-   - **Technologies Used:** 
-   - **Results:** Model is able to predicting the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position.
+   - **Description:** Developed a Feed Forward Neural Network model to analyze historical racing data of horses, attempting to forecast horse's actual distance from predicted finish position
+   - **Technologies Used:** Feed Forward Neural Network
+   - **Results:** Model is able to predict the margin of victory or defeat in forthcoming races for all horses within an average margin of +-8 meters from the actual finish position
 3. **[What’s Cooking - Food Recipe Classification Competition on Kaggle](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/What's%20Cooking%20-%20Food%20Recipe%20Classification%20Using%20Recurrent%20Neural%20Network)**
-   - **Description:** University of Guelph - Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
-   - **Technologies Used:** 
-   - **Results:**
+   - **Institution/Organisation:** University of Guelph
+   - **Description:** Achieved 75.38% leaderboard accuracy by employing Word2Vec in conjunction with both RNN and LSTM models for food recipe classification
+   - **Technologies Used:** Recurrent Neural Networks, LSTM, Word2Vec, WordNetLemmatizer
+   - **Results:** Achieved 75.38% leaderboard accuracy
 4. **[Co-operators Company Car Insurance Prediction](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Co-operators%20Company%20Car%20Insurance%20Prediction)** : University of Guelph - Conducted car insurance outcome predictions by comparing performance of logistic regression with Linear Discriminant Analysis (LDA) applied on Principal Component Analysis (PCA) to maximize Revenue Generation
    - **Description:** 
    - **Technologies Used:** 
@@ -36,7 +38,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:**
 6. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
 7. **[Nonogram](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
-6. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
+8. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
@@ -44,19 +46,19 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
-11. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
+10. **User Product Affinity Model** : CashKaro - Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
-13. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
+11. **PacMan Game - Building and testing AI Search Models and Heuristics**: University of Guelph
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
-14. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
+12. **Stock Prediction Model**: Kaggle - Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
-15. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
+13. **Health Insurance Forecasting Model**: Kaggle - Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
    - **Description:** 
    - **Technologies Used:** 
    - **Results:**
