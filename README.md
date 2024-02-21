@@ -15,7 +15,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
 
 1. **Research: Avoiding Conversation Derailment in E-commerce Customer Service Chatbot by integrating Emotion and Intent based decision making**
    - **Institution/Organisation:** University of Guelph
-   - **Description:** On-Going Research Project Aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
+   - **Description:** On-Going Research Project aimed towards improving customer service chatbots by integrating Emotion and Intent based Generative Responses to avoid Derailment and Achieve highest customer satisfaction rating
    - **Technologies Used:** LLMs Used for Performance Comparison - GEMINI/BERT/GPT ; Sequential Conversation Chat Datasets Used - IEMOCAP, MELD, DialyDialog
    - **Results:** NA
      
@@ -44,8 +44,16 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** Achieved 94% RMSE
      
 6. **[iZEV Incentives Statistics Visualisation](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/iZEV%20Incentives%20Statistics%20Visualisation)**
+   - **Institution/Organisation:** University of Guelph
+   - **Description:** Used Tableau to draw insights from iZEV Incentive Statistics Dataset published by Statistics Canada to measure growth and derive meaningful insights from the real-world dataset
+   - **Technologies Used:** Tableau
+   - **Results:** Suggested growth approaches for the iZEV Incentives Program
    
-8. **[Nonogram](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+8. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+   - **Institution/Organisation:** University of Guelph
+   - **Description:** Built a python script that can efficiently solve Nonogram Puzzles and also generate nonogram puzzles from real-life images
+   - **Technologies Used:** Python
+   - **Results:** NA
    
 10. **Credit Card User Cross-Selling Prediction** : CashKaro - Developed a regression model to predict user cross-selling potential, enabling targeted marketing resulting in a 30% increase in leads generated
    - **Description:** 
