@@ -77,6 +77,9 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Institution/Organisation:** University of Guelph
    - **Description:**  Building and testing AI Search Models and Heuristics
 
+
+
+
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
 Department of Mathematics and Statistics, UoG
