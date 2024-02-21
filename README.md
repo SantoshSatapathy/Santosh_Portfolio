@@ -49,47 +49,33 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Technologies Used:** Tableau
    - **Results:** Suggested growth approaches for the iZEV Incentives Program
    
-8. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+7. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
    - **Institution/Organisation:** University of Guelph
    - **Description:** Built a python script that can efficiently solve Nonogram Puzzles and also generate nonogram puzzles from real-life images
    - **Technologies Used:** Python
    - **Results:** NA
    
-10. **Credit Card User Cross-Selling Prediction**
+8. **Credit Card User Cross-Selling Prediction**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Developed a regression model to predict user cross-selling potential across the E-commerce platform, enabling targeted marketing for all affiliates
-   - **Technologies Used:** Logistic Regression, Random Forest Classifier
+   - **Technologies Used:** Logistic Regression, Random Forest Classifier, Big Query, Python, Amazon Redshift, Power BI
    - **Results:** 30% increase in leads generated through targeted marketing
      
-11. **Customer Churn Prediction Model**
+9. **Customer Churn Prediction Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
-   - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model, driving a significant 10% reduction in customer churn rates
-   - **Technologies Used:** 
-   - **Results:**
+   - **Description:** Leveraged Support Vector Machine to create an accurate churn prediction model basis all available customer behaviour measurement metrics in the company
+   - **Technologies Used:** Support Vector Machine (SVM), Python, Amazon Redshift, Power BI
+   - **Results:** Drove a significant 10% reduction in customer churn rates
      
-11. **User Product Affinity Model**
+10. **User Product Affinity Model**
    - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
-   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, resulting in at least 20% increase in user engagement
-   - **Technologies Used:** 
-   - **Results:**
+   - **Description:** Modelled a user affinity model, analysing products and user data to predict preferences and deliver personalised recommendations, 
+   - **Technologies Used:** Big Query, Python, Amazon Redshift, Power BI
+   - **Results:** Resulted in at least 20% increase in user engagement
    - 
-11. **PacMan Game - Building and testing AI Search Models and Heuristics**
+11. **PacMan Game Heuristics**
    - **Institution/Organisation:** University of Guelph
-   - **Description:** 
-   - **Technologies Used:** 
-   - **Results:**
-   - 
-12. **Stock Prediction Model**
-   - **Institution/Organisation:** Kaggle
-   - **Description:** Developed an innovative Stock Prediction Model that forecasts stock prices, enabling smarter investment decisions for traders and investors
-   - **Technologies Used:** 
-   - **Results:**
-   - 
-13. **Health Insurance Forecasting Model**
-   - **Institution/Organisation:** Kaggle
-   - **Description:** Leveraged machine learning techniques to create a cost prediction model, delivering exceptional 96% accuracy for an Insurance Company's dataset
-   - **Technologies Used:** 
-   - **Results:**
+   - **Description:**  Building and testing AI Search Models and Heuristics
 
 ## Professional Experience
 ### Graduate Teaching Assistant: Statistics I (W - 2024)
