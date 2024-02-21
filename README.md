@@ -56,7 +56,7 @@ Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ 
    - **Results:** NA
    
 10. **Credit Card User Cross-Selling Prediction**
-   - **Institution/Organisation:** CashKaro
+   - **Institution/Organisation:** [CashKaro.com](https://cashkaro.com)
    - **Description:** Developed a regression model to predict user cross-selling potential across the E-commerce platform, enabling targeted marketing for all affiliates
    - **Technologies Used:** Logistic Regression, Random Forest Classifier
    - **Results:** 30% increase in leads generated through targeted marketing
