@@ -3,7 +3,7 @@
 This repository serves as a comprehensive portfolio, highlighting my proficiency in data science, machine learning, and data storytelling through a diverse range of projects undertaken for academic and self-learning purpose. Please note that projects developed for my previous employer are not included here as they are proprietary to the company.
 
 ## Professional Summary
-Data Scientist pursuing Master of Data Science at University of Guelph, with 3+ years of Data Analytics and Data Engineering experience in E-commerce Industry leading a team of 10+ while creating, developing, testing, and deploying highly adaptive diverse Data based services to translate E-Commerce Business Data and App Data to propel growth.
+Experienced Data Science Graduate from University of Guelph with 3+ years experience in Data Science and Engineering in BFSI and E-commerce. Skilled in leading teams, developing adaptive data services, and driving business growth through insightful analytics.
 
 ## Contact Information
 - Location: Guelph, ON, N1E5H6
