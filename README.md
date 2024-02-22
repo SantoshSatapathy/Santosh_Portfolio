@@ -149,12 +149,14 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 
 ## Education
 
-- **Master of Data Science** (2023 - 2024)
+- **Master of Data Science [CGPA: 96.33]** (2023 - 2024)
   - University of Guelph, Ontario, Canada
 
 
 - **Bachelor of Technology: Electronics and Communication Engineering** (2015 - 2019)
   - Guru Gobind Singh Indraprastha University, Delhi, India
+  - **Industrial Training - Data Analysis using R and Hadoop**
+  - **Certification - Big Data Analysis**
 
 
 ## Skills Summary
@@ -174,11 +176,4 @@ CashKaro.com (E-Commerce Affiliate Marketing App)
 - **Warehousing**: Database management and SQL, Big Data (R Programming, Hadoop), Data Warehousing (Amazon Redshift), ETL processes, Cloud computing platforms (AWS, GCP)
   
 - **Transferrable skills**: Team management, Data Storytelling, Problem-Solving, Attention to detail
-
-
-## Training and Certifications
-
-- **Industrial Training - Data Analysis using R and Hadoop**
-  
-- **Certification - Big Data Analysis**
   
