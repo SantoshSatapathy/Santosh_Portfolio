@@ -77,7 +77,7 @@ Experienced Data Science Graduate from University of Guelph with 3+ years experi
    - **Results:** Suggested growth approaches for the iZEV Incentives Program
      
    
-7. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/ArtificialIntelligence_Assignment2_NonogramSolverAndGenerator)**
+7. **[Nonogram Solver and Generator](https://github.com/SantoshSatapathy/Santosh_Portfolio/tree/main/Nonogram%20Solver%20and%20Generator)**
     
    - **Institution/Organisation:** University of Guelph
      
